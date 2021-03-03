@@ -34,9 +34,9 @@
 
 # Application Preview
 
-<p align="left">
- <img height="350px" width="600px" src="https://github.com/navdeepm20/KeepSafe/blob/master/samples/home.PNG">
- </p>
+
+
+
  
  <h3><i>Developer - Navdeep Mishra😊</i></h3>
  
