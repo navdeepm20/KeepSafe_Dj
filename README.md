@@ -30,6 +30,7 @@
 
 # Live Preview
 <a href="http://keepsafe-project.herokuapp.com/"><h3>Click Here to Check Live Preview</h3></a>😊
+> - It Might Take Sometime to open the website due to the limited free hosting support.
 
 
 
